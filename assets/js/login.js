@@ -1,3 +1,3 @@
 $(function(){
-  console.log('登录搞定了')
+  // console.log('登录搞定了')
 })
